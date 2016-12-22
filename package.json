@@ -1,19 +1,19 @@
 {
-  "name": "xyz.transport.auth.basic.send",
-  "version": "0.0.1",
-  "description": "basic auth send plugin for xyz",
-  "main": "xyz.transport.auth.basic.send.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "kian.peymani@gmail.com",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/node-xyz/xyz.transport.auth.basic.send.git"
-  },
-  "bugs": {
-    "url": "https://github.com/node-xyz/xyz.transport.auth.basic.send/issues"
-  },
-  "homepage": "https://github.com/node-xyz/xyz.transport.auth.basic.send#readme"
+    "name": "xyz.transport.auth.basic.send",
+    "version": "0.1.2",
+    "description": "basic auth send plugin for xyz",
+    "main": "xyz.transport.auth.basic.send.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "kian.peymani@gmail.com",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/node-xyz/xyz.transport.auth.basic.send.git"
+    },
+    "bugs": {
+        "url": "https://github.com/node-xyz/xyz.transport.auth.basic.send/issues"
+    },
+    "homepage": "https://github.com/node-xyz/xyz.transport.auth.basic.send#readme"
 }
